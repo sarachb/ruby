@@ -1,1 +1,5 @@
-puts "hello world!"ß
+puts "hello world!"
+
+greeting = "hello this is my greeting"
+
+puts greeting
